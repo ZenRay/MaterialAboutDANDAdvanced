@@ -185,6 +185,49 @@
 
 
 
+### 课程3 评估数据
+#### 课程3.3 数据集：口服胰岛素 II 期临床试验数据
+* [新型吸入胰岛素 Afrezza 的临床试验](./课程材料/新型吸入胰岛素 Afrezza 的临床试验.pdf) 原始地址：[Inhaled Technosphere Insulin Compared With Injected Prandial Insulin in Type 1 Diabetes: A Randomized 24-Week Trial | Diabetes Care](http://care.diabetesjournals.org/content/38/12/2266.long)
+* [医疗保健数据中的真实常见数据质量问题](./课程材料/医疗保健数据中的真实常见数据质量问题.pdf) 原始地址：[Inhaled Technosphere Insulin Compared With Injected Prandial Insulin in Type 1 Diabetes: A Randomized 24-Week Trial | Diabetes Care](http://care.diabetesjournals.org/content/38/12/2266.long)
+
+**未清理的数据：脏数据与杂乱数据**
+
+* 脏数据，也称为低质量数据。低质量数据存在内容问题。
+* 杂乱数据，也称为不整洁数据。不整洁数据存在结构问题
+
+**脏数据的原因**
+脏数据 = 低质量数据 = 内容问题
+
+**杂乱数据的原因**
+杂乱数据 = 不整洁数据 = 结构性问题
+
+#### 课程3.9 质量：目测评估 1
+* [Stack Overflow：使用整数列在数据库中存储美国邮政编码是个好办法吗？](./课程材料/使用整数列在数据库中存储美国邮政编码是个好办法吗.png) 原始地址：[Is it a good idea to use an integer column for storing US ZIP codes in a database? - Stack Overflow](https://stackoverflow.com/questions/893454/is-it-a-good-idea-to-use-an-integer-column-for-storing-us-zip-codes-in-a-databas)
+
+#### 课程3.12 数据质量为度 1
+以下是关于数据质量维度的问题文档：
+* [THE SIX PRIMARY DIMENSIONS FOR DATA QUALITY ASSESSMENT](./课程材料/DAMA UK DQ Dimensions White Paper R37.pdf)
+* [Data Quality Rules | How to Improve Data Quality ](http://www.informit.com/articles/article.aspx?p=399325&seqNum=3) 作者：Larissa Terpeluk Moss, Majid Abai, Sid Adelman
+* [What is data quality? - Definition from WhatIs.com](https://searchdatamanagement.techtarget.com/definition/data-quality)
+
+
+**数据质量维度**
+数据质量维度有助于在评估和清理数据时为我们提供思维指导。四个主要的数据质量维度分别是：
+
+* 完整性：我们是否记录了所有内容？是否缺少记录？是否丢失某个行、列或单元格？
+* 有效性：我们已经做了记录，但却无效，即它们不符合定义的模式。模式是一组定义的数据规则。这些规则可以是真实世界约定成俗的事实（例如身高不可能是负数）和表格约定成俗的属性（例如表中的唯一键）。
+* 准确性：不准确的数据是有效的，但仍然是错误的。这些数据符合定义的模式，但仍然不正确。例如：每个患者体重被多记录了5磅。虽然有失偏颇，这些数据仍然是有效的，但并不理想。
+* 一致性：不一致的数据是有效和准确的，但是指代同一件事情的正确方式有多个。最好确保表和/或表内表示相同数据的列中的数据具有一致性，即采用标准格式。
+
+对于视频中提到的其他数据质量研究，附加维度是上述四个维度的超特定情况。例如：实效性 (currency)，定义如下：世界按特定模型展现的数据本身的实效性程度。实效性可以表明数据最与时俱进/最新的程度。从某种意义上来说，实效性是展现数据准确性 (accuracy) 的特定衡量属性，比如，如果过期数据（通常）仍然有效，但是从实效性的角度来说还是错误的。换句话说，准确性的定义较为广泛，包含实效性。
+
+**以下可能会出现的情况需要迭代**：
+
+* 也许你（如临床试验研究团队的数据科学家）已经意识到自己的统计检查计算错误，所以需要招募更多的患者，使你的研究具有统计学意义。在这种情况下，还需要重新学习收集部分。
+* 也许你已经意识到自己错过了一个关键患者信息，像患者血型（再次说明，这不太可能是临床试验的严格性，而是出现错误了），因为你发现了有关胰岛素抗血型的新型研究。在这种情况下，你也需要重新学习收集部分。
+* 也许你已完成了评估、开始清理，并发现另一个数据质量问题。希望你能回顾 评估 部分，将这些评估要点添加到自己的笔记中。
+
+
 
 ## 课程练习
 主要内容是包括每课课程中的练习材料，练习数据等
@@ -208,3 +251,19 @@
 * [课程2.19 Flashforward 2](./课程练习/Lesson2/)：第 19 小节下载材料，文件名为 `Word clouds (black borders)`——`wordclouds-black.zip`、`Word clouds (white borders) `——`wordclouds-white.zip`
 * [课程2.20 收集数据](./课程练习/Lesson2/课程2.20收集数据)：第 20 小节练习，文件名为`bestofrt_master_solution.csv`、`gathered_assessed_cleaned.csv`、`gathering (7)-zh.ipynb`
 * [课程2.22 Python 中的关系数据库](./课程练习/Lesson2/课程2.22Python 中的关系数据库)：第 20 小节练习，文件名为`bestofrt_master.csv`、`gathering (8)-zh.ipynb`
+
+
+### [课程3：评估数据](./课程练习/Lesson3)
+* [课程3.8 目测评估：认识自己](./课程练习/Lesson3/课程3.8认识自己)：第 8 小节练习：`adverse_reactions.csv`, `assessing-zh.ipynb`, `patients.csv`, `treatments_cut.csv`, `treatments.csv`
+
+* [课程3.9 质量：目测评估 1](./课程练习/Lesson3/课程3.9目测评估)：第 9 小节练习：`adverse_reactions.csv`, `assessing (1)-zh.ipynb`, `patients.csv`, `treatments_cut.csv`, `treatments.csv`
+
+* [课程3.11 质量评估2](./课程练习/Lesson3/课程3.9目测评估)：第 11 小节练习：和前一个练习在同一个文件夹，只是文件不同`assessing (2)-zh.ipynb`
+
+* [课程3.13 数据质量为度 2](./课程练习/Lesson3/课程3.9目测评估)：第 13 小节练习：和前一个练习在同一个文件夹，只是文件不同`assessing (3)-zh.ipynb`
+
+* [课程3.14 编程评估](./课程练习/Lesson3/课程3.9目测评估)：第 14 小节练习：和前一个练习在同一个文件夹，只是文件不同`common-programmatic-assessments-pandas-zh.ipynb`
+
+* [课程3.15 质量：编程评估 1](./课程练习/Lesson3/课程3.9目测评估)：第 15 小节练习：和前一个练习在同一个文件夹，只是文件不同`assessing (4)-zh.ipynb`
+
+* [课程3.16 质量：编程评估 2](./课程练习/Lesson3/课程3.9目测评估)：第 16 小节练习：和前一个练习在同一个文件夹，只是文件不同`assessing (5)-zh.ipynb`
