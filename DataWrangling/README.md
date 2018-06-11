@@ -227,7 +227,12 @@
 * 也许你已经意识到自己错过了一个关键患者信息，像患者血型（再次说明，这不太可能是临床试验的严格性，而是出现错误了），因为你发现了有关胰岛素抗血型的新型研究。在这种情况下，你也需要重新学习收集部分。
 * 也许你已完成了评估、开始清理，并发现另一个数据质量问题。希望你能回顾 评估 部分，将这些评估要点添加到自己的笔记中。
 
+### 课程4 清理数据
+#### 课程4.5 数据清理流程
+* [为什么我得在 pandas 里复制一份数据框](./课程材料/为什么我得在pandas里复制一份数据框.png) 原始地址：[chained assignment - why should I make a copy of a data frame in pandas - Stack Overflow](https://stackoverflow.com/questions/27673231/why-should-i-make-a-copy-of-a-data-frame-in-pandas)
 
+#### 课程4.8 先处理数据缺失问题
+* [Imputation](./课程材料/Imputation.pdf) 原始地址：[Imputation (statistics) - Wikipedia](https://en.wikipedia.org/wiki/Imputation_(statistics))
 
 ## 课程练习
 主要内容是包括每课课程中的练习材料，练习数据等
@@ -267,3 +272,16 @@
 * [课程3.15 质量：编程评估 1](./课程练习/Lesson3/课程3.9目测评估)：第 15 小节练习：和前一个练习在同一个文件夹，只是文件不同`assessing (4)-zh.ipynb`
 
 * [课程3.16 质量：编程评估 2](./课程练习/Lesson3/课程3.9目测评估)：第 16 小节练习：和前一个练习在同一个文件夹，只是文件不同`assessing (5)-zh.ipynb`
+
+### [课程4：清理数据](./课程练习/Lesson4)
+* [课程4.6 清理步骤](./课程练习/Lesson4)：第 6 小节练习：`cleaning-sequences-zh.ipynb`,`animals.csv`
+* [课程4.9 练习：数据缺失](./课程练习/Lesson4/课程4.9练习数据缺失)：第 9 小节练习：`treatments_cut.csv`, `treatments.csv`, `patients.csv`,`adverse_reactions.csv`,`cleaning-student-zh.ipynb` ，解决方案见：`missing-data-solution-zh.ipynb`
+* [课程4.12 练习：数据缺失](./课程练习/Lesson4/课程4.12练习整洁度)：第 12 小节练习：`treatments_cut.csv`, `treatments.csv`, `patients.csv`,`adverse_reactions.csv`,`cleaning-student-zh.ipynb` ，解决方案见：`tidiness-solution-zh.ipynb`
+* [课程4.15 练习：质量](./课程练习/Lesson4/课程4.15练习质量)：第 15 小节练习：`treatments_cut.csv`, `treatments.csv`, `patients.csv`,`adverse_reactions.csv`,`cleaning-student（2）-zh.ipynb` ，解决方案见：`quality-solution-zh.ipynb`
+
+
+## 项目材料
+主要内容是包括每课课程中的项目材料
+### [项目材料](./项目材料)
+项目说明：`项目说明.md`
+材料文件：`tweet_json.txt`, `twitter-archive-enhanced.csv` ,`wrangle_act.ipynb`
