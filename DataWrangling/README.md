@@ -1,6 +1,6 @@
 **目录**
 
-[toc]
+[TOC]
 
 ## 说明
 罗列出相关文件列表目录
@@ -55,7 +55,12 @@
 
 	>测试指练习我们的数据集，通常使用代码，以确保有效完成我们的清洗工作。
 	
+#### 课程1.21 练习：清洗（代码1）
+
+* [Data Carpentry：在 Python 中复制对象与引用对象](https://datacarpentry.org/python-ecology-lesson/03-index-slice-subset/index.html) 
+
 #### 课程1.22 练习： 清洗（代码 2）
+
 * [Python Wiki：For 循环](https://wiki.python.org/moin/ForLoop)
 * [pandas: 显示选项和设置](https://pandas.pydata.org/pandas-docs/stable/options.html)
 
@@ -64,7 +69,10 @@
 * [pandas.Series.values — 系列值](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.values.html)
 * [Python by Programiz：in 关键字](./课程材料/Python by Programiz in 关键字.pdf) 原始地址：[List of Keywords in Python Programming](https://www.programiz.com/python-programming/keyword-list#in)
 
-#### 课程1.23 练习：清洗（练习）
+#### 课程1.26 整理与 EDA 与 ETL
+
+* [EDA 定义](https://www.epa.gov/caddis-vol4/exploratory-data-analysis)
+
 * [特征工程](./课程材料/特征工程.pdf) 原始地址：[Feature engineering - Wikipedia](https://en.wikipedia.org/wiki/Feature_engineering)
 * [ extract-transform-load process](./课程材料/ extract-transform-load process.pdf) 原始数据：[Extract, transform, load - Wikipedia](https://en.wikipedia.org/wiki/Extract,_transform,_load)
 * [数据整理与 ETL 有什么区别](./课程材料/数据整理与 ETL 有什么区别.pdf) 原始地址：[Data Wrangling Versus ETL: What’s the Difference? | Transforming Data with Intelligence](https://tdwi.org/articles/2017/02/10/data-wrangling-and-etl-differences.aspx)
@@ -115,6 +123,9 @@
 * [Ethics in Web Scraping – Towards Data Science](https://towardsdatascience.com/ethics-in-web-scraping-b96b18136f01):面向数据科学：Web 数据抓取理论
 
 #### 课程2.10 Python 中的 HTML 文件
+
+* [`Beautiful Soup`搜索树](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#searching-the-tree) 
+
 * [ 逐行构建 DataFrame 的最有效方式](./课程材料/逐行构建 DataFrame 的最有效方式.png) 原始地址：[python - How to build and fill pandas dataframe from for loop? - Stack Overflow](https://stackoverflow.com/questions/28056171/how-to-build-and-fill-pandas-dataframe-from-for-loop/28058264#28058264)
 * [Beautiful Soup 和 Unicode 问题](./课程材料/BeautifulSoup和Unicode问题.png) 原始地址：[python - Beautiful Soup and Unicode Problems - Stack Overflow](https://stackoverflow.com/questions/19508442/beautiful%20-soup-and-unicode-problems)
 * [Python：删除字符串中的 \ xa0](./课程材料/Python删除字符串.png) 原始地址：[parsing - Python: Removing \xa0 from string? - Stack Overflow](https://stackoverflow.com/questions/10993612/python-removing-xa0-from-string)
@@ -151,6 +162,7 @@
 #### 课程2.14 Python 中的文本文件
 * [glob 库](https://docs.python.org/3/library/glob.html) 可以使用通配符打开多文件
 * [逐行构建 DataFrame 的最有效方式](./课程材料/逐行构建 DataFrame 的最有效方式.png) 原始地址：[python - How to build and fill pandas dataframe from for loop? - Stack Overflow](https://stackoverflow.com/questions/28056171/how-to-build-and-fill-pandas-dataframe-from-for-loop/28058264#28058264)
+* [Stack Overflow：准确且完全 Pythonic 化的文件读取方式](./课程材料/准确且完全Pythonic化的文件读取方式.pdf)原始地址：[How to a read large file, line by line in Python - Stack Overflow](https://stackoverflow.com/questions/8009882/how-to-a-read-large-file-line-by-line-in-python/8010133#8010133)
 * [在 Python 中打开文件的最佳方法](./课程材料/在 Python 中打开文件的最佳方法.pdf) 原始地址：[unicode - Difference between open and codecs.open in Python - Stack Overflow](https://stackoverflow.com/questions/5250744/difference-between-open-and-codecs-open-in-python/22288895#22288895)
 * [迭代与迭代器](./课程材料/迭代与迭代器.pdf) 原始地址：[Stack Overflow：准确且完全 Pythonic 化的文件读取方式](https://classroom.udacity.com/nanodegrees/nd002-cn-advanced/parts/b88e1e04-44df-4c44-a436-f10a42f39309/modules/aef902cd-59a3-4cd2-af74-2d39b4b03b80/lessons/96402d84-c99d-4982-9edf-2430ef30d222/concepts/https%EF%BC%9A%20//stackoverflow.com/a/8010133)
 * [Glob 编程](./课程材料/Glob 编程.pdf) 原始地址：[glob (programming) - Wikipedia](https://en.wikipedia.org/wiki/Glob_(programming))
@@ -174,7 +186,13 @@
 * [Pillow — Pillow (PIL Fork) 5.1.1 documentation](https://pillow.readthedocs.io/en/5.1.x/)
 	>下载图像文件
 	
+#### 课程2.16 JSON 文件结构
+
+* [Udacity - Youtube：Android 开发人员眼中的 JSON](https://www.youtube.com/watch?v=0IOCgHrTJGU)
+* [API数据交换XML与JSON](课程材料/API数据交换XML与JSON.pdf) 原始地址：[Mashery：API 数据交换：XML 与 JSON](https://www.tibco.com/blog/2014/01/23/api-data-exchange-xml-vs-json/) 
+
 #### 课程2.22 Python 中的关系数据库
+
 * [讨论 pandas 与 SQL 的 Reddit thread](https://www.reddit.com/r/Python/comments/1tqjt4/why_do_you_use_pandas_instead_of_sql/)
 
 #### 课程2.22 Python 中的关系数据库
