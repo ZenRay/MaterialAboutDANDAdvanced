@@ -42,7 +42,19 @@
 * [条件概率的交互式可视化解释](http://setosa.io/conditional/)
 * [协调迁移](./课程材料/Coordinated Migration.pdf)原始地址：[Coordinated Migration](https://www.facebook.com/notes/facebook-data-science/coordinated-migration/10151930946453859)
 
+### 课程2.2 R 的力量
 
+*  Foodbourne Chicago 利用推文查找有问题的餐厅 原始地址：[Foodborne Chicago finds dodgy restaurants with tweets, and R (Revolutions)](https://blog.revolutionanalytics.com/2013/08/foodborne-chicago.html)
+*  二元分类器的敏感度、特异性和 ROC 曲线  原始地址：[ROC Curves in Python and R ](https://community.alteryx.com/t5/Data-Science-Blog/ROC-Curves-in-Python-and-R/ba-p/138430)
+
+### 课程2.10 获得帮助
+
+* [R 快速入门](http://www.statmethods.net/)
+* [R Cookbook](http://www.cookbook-r.com/)
+* [R-Bloggers](http://www.r-bloggers.com/)
+* [StackOverflow 上的 R 语言简介](http://stackoverflow.com/tags/r/info)
+* [StackOverflow R 常见问题解答](http://stackoverflow.com/questions/tagged/r-faq%20)
+* [Google R 风格指南](./课程材料/Google_R_风格指南.pdf) 原始地址：[Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
 
 
 
