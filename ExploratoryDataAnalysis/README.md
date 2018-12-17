@@ -6,7 +6,7 @@
 
 罗列出相关课程文件到列表目录
 
-## [课程材料](./课程材料)
+## [1. 课程材料](./课程材料)
 
 ### 课程1.1 数据无处不在
 
@@ -29,7 +29,7 @@
 * [Aude Hofleitner](http://www.linkedin.com/in/audehofleitner)
 * [Getting Into Data](./课程材料/Getting_Into_Data.pdf) 原始地址：[Getting Into Data](https://www.udacity.com/api/nodes/903038546/supplemental_media/getting-into-datapdf/download)
 
-## 课程1.5 EDA 的目标
+### 课程1.5 EDA 的目标
 
 * [探索性数据分析](./课程材料/Exploratory_data_analysis.pdf) 原始地址：[Exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
 
@@ -58,11 +58,21 @@
 
 
 
-## [课程练习](./课程练习)
+## [2. 课程练习](./课程练习)
+
+### [课程2 练习](./课程练习/lesson2)
+
+### [课程3 练习](./课程练习/lesson3)
+
+### [课程4 练习](./课程练习/lesson4)
+
+### [课程5 练习](./课程练习/lesson5)
+
+### [课程6 练习](./课程练习/lesson6)
 
 
 
+## [3. 项目材料](./项目材料)
 
 
-## [项目材料](./项目材料)
 
