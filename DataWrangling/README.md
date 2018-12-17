@@ -120,7 +120,7 @@
 #### 课程2.8 资料来源：Web 数据抓取
 * [Beautiful Soup: We called him Tortoise because he taught us.](https://www.crummy.com/software/BeautifulSoup/)
 * [Requests](http://docs.python-requests.org/en/master)： 使用该库将 HTML 文件保存到计算机中
-* [Ethics in Web Scraping – Towards Data Science](https://towardsdatascience.com/ethics-in-web-scraping-b96b18136f01):面向数据科学：Web 数据抓取理论
+* [Ethics in Web Scraping – Towards Data Science](https://towardsdatascience.com/ethics-in-web-scraping-b96b18136f01):面向数据科学：Web 数据抓取伦理
 
 #### 课程2.10 Python 中的 HTML 文件
 
@@ -154,7 +154,8 @@
 	>几乎可以将每个愚蠢的问题，例如“我的网站看起来乱七八糟”，或者“带有重音符号时，她无法读取我的电子邮件”归结为程序员太天真，他不明白一个简单的事实，如果不告诉我是否使用 UTF-8 或 ASCII 或 ISO 8859-1(拉丁文 1)或 Windows 1252(西欧)对特定的字符串进行编码，就根本无法正确显示这个字符串，甚至不知道它在哪里结束。编码和大于代码点 127 的代码有上百个，所以很难预测。
 
 * [What Every Programmer Absolutely, Positively Needs to Know About Encodings and Character Sets to Work With Text](http://kunststube.net/encoding/)——关于字符串编码的技术细节
-	>在许多不同的位序列中，可以对任何字符进行编码，任何特定位序列可以表示许多不同的字符，但这取决于使用哪种编码来读取或写入这些字符。原因是不同的编码对每个字符使用不同的位数，以及不同的值来表示不同的字符。
+
+  >在许多不同的位序列中，可以对任何字符进行编码，任何特定位序列可以表示许多不同的字符，但这取决于使用哪种编码来读取或写入这些字符。原因是不同的编码对每个字符使用不同的位数，以及不同的值来表示不同的字符。
 
 * [bytes 和 bytearray](./课程材料/bytes 和 bytearray.png) 原始地址：[python - What is the difference between a string and a byte string? - Stack Overflow](https://stackoverflow.com/questions/6224052/what-is-the-difference-between-a-string-and-a-byte%20--string)
 * [UTF-8 与 Unicode 之间的区别](./课程材料/UTF-8 与 Unicode 之间的区别.pdf) 原始地址：[The difference between UTF-8 and Unicode?](http://www.polylab.dk/utf8-vs-unicode.html)
@@ -180,9 +181,10 @@
 * [ Python 的 列表](https://www.mediawiki.org/wiki/API:Client_code#Python) MediaWiki 有一堆不同的访问库,这是 Python 的 列表
 * [wptools: Wikipedia tools (for Humans): easily extract data from Wikipedia, Wikidata, and other MediaWikis](https://github.com/siznax/wptools) 对于 MediaWiki，Python 中最新和可读的库是 wptools
 * [获取一个 page 对象](https://github.com/siznax/wptools/wiki/Usage#page-usage)
-* [json 库](http://docs.python-guide.org/en/latest/scenarios/json/) pandas 也具有 JSON 函数(read_json 函数和 to_json DataFrame 方法)，但是在 pandas 的列表 DataFrame 中没有发挥出 JSON 的层次优势，所以使用有限。
+* [json 库](http://docs.python-guide.org/en/latest/scenarios/json/) pandas 也具有 JSON 函数(read_json 函数和 to_json DataFrame 方法)，但是在 pandas 的 DataFrame 中没有发挥出 JSON 的层次优势，所以使用有限。
 * [Quickstart — Requests 2.18.4 documentation](http://docs.python-requests.org/en/latest/user/quickstart/#binary-response-content)
-	>下载图像文件
+
+  >下载图像文件
 * [Pillow — Pillow (PIL Fork) 5.1.1 documentation](https://pillow.readthedocs.io/en/5.1.x/)
 	>下载图像文件
 	
