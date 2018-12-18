@@ -56,6 +56,52 @@
 * [StackOverflow R 常见问题解答](http://stackoverflow.com/questions/tagged/r-faq%20)
 * [Google R 风格指南](./课程材料/Google_R_风格指南.pdf) 原始地址：[Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
 
+### 课程2.15 设置有序因子的水平
+
+* [学习如何设置和排列因子水平](./课程材料/学习如何设置和排列因子水平.pdf) 原始地址：[Factor variables](https://stats.idre.ucla.edu/r/modules/factor-variables/)
+
+### 课程2.16 数据加工
+
+* [整洁的数据呈现](./课程材料/Tidy_data.pdf) 原始地址：[tidy-data](http://courses.had.co.nz.s3-website-us-east-1.amazonaws.com/12-rice-bdsi/slides/07-tidy-data.pdf)
+* [整洁的数据](./课程材料/tidy-data.pdf) 原始地址：[Tidy data](http://vita.had.co.nz/papers/tidy-data.pdf)
+
+### 课程3.4 用户生日直方图
+
+* [如何读懂直方图并在 R 中进行使用](./课程材料/如何读懂直方图并在R中进行使用.pdf) 原始地址：[How to Read and Use Histograms in R](https://flowingdata.com/2014/02/27/how-to-read-histograms-and-use-them-in-r/)
+
+### 课程3.5 Moira 的调查
+
+* [Bernstein (M. S.)、Bakshy (E.)、Burke (M.) 和 Karrer (B.) (2013)。量化社交网络中的隐形受众。有关计算系统中人为因素的 SIGCHI 会议学报 (CHI 2013)，第 21 至 30 页](./课程材料/invisibleaudience.pdf) 原始地址：[Quantifying the Invisible Audience in Social Networks](http://hci.stanford.edu/publications/2013/invisibleaudience/invisibleaudience.pdf)
+
+### 课程3.8 分面
+
+* [ggplot2 中的分面](./课程材料/Facet.pdf) 原始地址：[Facets (ggplot2)](http://www.cookbook-r.com/Graphs/Facets_(ggplot2)/)
+
+### 课程3.22 转换数据
+
+* [在一个图像输出内创建多个图形](http://lightonphiri.org/blog/ggplot2-multiple-plots-in-one-graph-using-gridextra)
+* [向一个轴添加对数或 Sqrt 标尺](http://docs.ggplot2.org/current/scale_continuous.html)
+
+* [线性回归的假设](./课程材料/Linear_regression.pdf)  原始地址：[Linear regression](https://en.wikipedia.org/wiki/Linear_regression#Assumptions)
+
+* [正态分布](./课程材料/相关分析法.pdfNormal_distribution.pdf) 原始地址：[Normal distribution - Wikipedia](https://en.wikipedia.org/wiki/Normal_distribution)
+
+### 课程3.26 箱线图
+
+* [如何读懂并使用箱线图](./课程材料/如何读懂并使用箱线图.pdf) 原始地址：[How to Read and Use a Box-and-Whisker Plot](https://flowingdata.com/2008/02/15/how-to-read-and-use-a-box-and-whisker-plot/)
+
+### 课程5.14 相关分析法
+
+* [相关分析法: Pearson's r, Spearman's ρ 及 Kendall's τ](./课程材料/相关分析法.pdf) 原始地址：[Correlation (Pearson, Kendall, Spearman)](https://www.statisticssolutions.com/correlation-pearson-kendall-spearman/)
+
+### 课程5.21 一个新的视角
+
+*  [William Playfair 和图形心理学](./课程材料/William_Playfair_和图形心理学 .pdf) 原始地址：[William Playfair and the Psychology of Graphs ](http://www.psych.utoronto.ca/users/spence/Spence%20(2006).pdf)
+
+
+
+
+
 
 
 ## [2. 课程练习](./课程练习)
