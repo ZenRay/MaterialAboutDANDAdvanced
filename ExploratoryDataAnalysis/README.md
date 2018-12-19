@@ -98,9 +98,45 @@
 
 *  [William Playfair 和图形心理学](./课程材料/William_Playfair_和图形心理学 .pdf) 原始地址：[William Playfair and the Psychology of Graphs ](http://www.psych.utoronto.ca/users/spence/Spence%20(2006).pdf)
 
+### 课程5.27 分析两个变量
 
+* [双变量数据分析](http://dept.stat.lsa.umich.edu/~kshedden/Courses/Stat401/Notes/401-bivariate-slides.pdf) 
 
+### 课程7.6 宽和长格式
 
+* [reshape2 入门](http://www.seananderson.ca/2013/10/19/reshape.html)（作者：Sean Anderson）
+
+* [宽格式和长格式之间的转换](http://www.cookbook-r.com/Manipulating_data/Converting_data_between_wide_and_long_format/)
+
+* [融合数据框](http://www.r-bloggers.com/melt/)
+
+### 课程7.15 偏差方差折衷
+
+* [理解偏差-方差折衷（Bias-Variance Tradeof）](./课程材料/理解偏差_方差折衷Bias-Variance_Tradeof.pdf)原始地址：[Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
+
+### 课程7.17 酸奶数据集简介
+
+* [消费者需求的面板数据离散选择模型](./课程材料/Panel_Data_Demand.pdf) 原始地址：[Panel Data Demand - June 20, 2013](http://www.nuff.ox.ac.uk/Economics/papers/2013/Panel%20Data%20Demand%20-%20June%2020,%202013.pdf)
+* [贝叶斯统计学与营销](http://www.perossi.org/home/bsm-1)包含该数据集及案例研究,有关酸奶数据集，论文原稿由 Kim、Jaehwan、Greg M. Allenby 和 Peter E. Rossi 撰写。“构建多样性消费者需求模型”，《营销科学》21.3 (2002)：第 229 至 250 页
+
+### 课程9.13 价格与克拉和净度
+
+* [Legends](./课程材料/Legends.pdf) 原始地址：[Legends (ggplot2)](http://www.cookbook-r.com/Graphs/Legends_(ggplot2)/)
+* [ColorBrewer 调色板和安全色](./课程材料/palettes_color_brewer.pdf) 原始地址：[Colors (ggplot2)](http://www.cookbook-r.com/Graphs/Colors_(ggplot2)/#palettes-color-brewer)
+
+### 课程9.20 构建线性模型
+
+* [R 中的线性模型和运算符](./课程材料/R中的线性模型和运算符.pdf) 原始地址：[GR's Website](https://data.princeton.edu/r/linearmodels)
+
+### 课程9.21 模型问题
+
+* R Bloggers 上的[解释 R 中的回归系数](http://www.r-bloggers.com/interpreting-regression-coefficient-in-r/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+RBloggers+%28R+bloggers%29)
+
+* Analysis Factor 博客上的[解释回归系数](http://www.theanalysisfactor.com/interpreting-regression-coefficients/)
+
+* [拟合与解释线性模型](./课程材料/拟合与解释线性模型.pdf) 原始地址：(http://blog.yhat.com/posts/r-lm-summary.html)（作者：ŷhat）
+
+* Stats StackExchange 上的[线性模型中因子系数的另一种解释](http://stats.stackexchange.com/a/24256)
 
 
 
@@ -120,5 +156,4 @@
 
 ## [3. 项目材料](./项目材料)
 
-
-
+[数据集选项](https://github.com/udacity/new-dand-advanced-china/blob/master/%E6%8E%A2%E7%B4%A2%E6%80%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E9%A1%B9%E7%9B%AE/%E6%8E%A2%E7%B4%A2%E6%80%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90_%E6%95%B0%E6%8D%AE%E9%9B%86.md)
